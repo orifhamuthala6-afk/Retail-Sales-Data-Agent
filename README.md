@@ -1,5 +1,5 @@
 #The Retail Sales Data Agent** is an AI-powered analytics solution built on **Databricks** that enables business users to ask questions about retail sales performance using plain English. The agent translates natural language into SQL queries and returns accurate, data-driven insights based solely on the retail sales dataset#
-Instead of manually writing SQL, users can ask questions like:
+#Instead of manually writing SQL, users can ask questions like#:
 - What is our total revenue?
 - Which product category performs the best?
 - Who are our top customers?
